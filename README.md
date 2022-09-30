@@ -31,4 +31,4 @@ I'm CSE student of [Koreatech](https://www.koreatech.ac.kr/)
 
 ## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kongwoojin03@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](https://t.me/Kongjak)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Kongjak)
