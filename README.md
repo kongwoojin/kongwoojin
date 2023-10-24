@@ -5,8 +5,10 @@ I'm CSE student of [Koreatech](https://www.koreatech.ac.kr/)
 ## Skills
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/compose-4285F4.svg?&style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FFFFFF.svg?&style=for-the-badge&logo=OpenJDK&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
@@ -30,5 +32,5 @@ I'm CSE student of [Koreatech](https://www.koreatech.ac.kr/)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kongjak)](https://solved.ac/kongjak)
 
 ## Contact
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kongwoojin03@gmail.com)
+[![Gmail](https://img.shields.io/badge/Mail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kongjak@kongjak.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Kongjak)
