@@ -1,6 +1,6 @@
 # Hello World!
 My name is WooJin Kong  
-I'm CSE student of [Koreatech](https://www.koreatech.ac.kr/)
+I'm CSE Student at [Koreatech](https://www.koreatech.ac.kr/)
 
 ## Skills
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
@@ -8,15 +8,26 @@ I'm CSE student of [Koreatech](https://www.koreatech.ac.kr/)
 ![Jetpack Compose](https://img.shields.io/badge/compose-4285F4.svg?&style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FFFFFF.svg?&style=for-the-badge&logo=OpenJDK&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white)
+
+## Activities
+### BCSD Lab
+* BCSD Lab Android Track (2022. 08. ~ )
+* BCSD Lab Android Track Leader (2024. 11. ~ )
+* KOIN Project Campus Team (2025. 01. ~ 2025. 03)
+* KOIN Project Campus Team (2025. 03. ~ )
+* KOIN Project User Team (2025. 03. ~)
+
+### SKY VEGA DEV TEAM
+* Vega Pop-Up Note (ef65) Maintainer (2019 ~ 2022)
+
+## Certificate
+| Certificate | Date Acquired |
+|---|---|
+| 리눅스 마스터 2급 | 2017. 01 |
+| 정보처리기능사 | 2018. 02 |
 
 ## Tools
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white)
